@@ -1,2 +1,3 @@
 My GitHub automation project.- code contirubtion
 - 300
+- code error correction
